@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luobasohan
+- 👋 Hi, I’m lucy
 - 👀 I’m interested in data science projects and data analytics precisely
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on data science projects
